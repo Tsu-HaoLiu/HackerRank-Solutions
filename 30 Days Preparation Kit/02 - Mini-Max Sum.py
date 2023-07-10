@@ -7,3 +7,4 @@ def miniMaxSum(arr):
     maxi = sum(arr[1:])
     
     print(f'{mini} {maxi}')
+    
